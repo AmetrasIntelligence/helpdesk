@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.helpdesk] 13.0/helpdesk_mgmt/i18n/helpdesk_mgmt.pot\n"
 "X-Crowdin-File-ID: 3262\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-22 07:55\n"
+"PO-Revision-Date: 2022-10-05 13:29\n"
 
 #. module: helpdesk_mgmt
 #: model_terms:ir.ui.view,arch_db:helpdesk_mgmt.portal_helpdesk_ticket_page
@@ -245,7 +245,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:helpdesk_mgmt.helpdesk_ticket_kanban_view
 #, python-format
 msgid "All"
-msgstr ""
+msgstr "Alles"
 
 #. module: helpdesk_mgmt
 #: model_terms:ir.ui.view,arch_db:helpdesk_mgmt.ticket_view_form
