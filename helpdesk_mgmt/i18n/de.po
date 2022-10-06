@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.helpdesk] 13.0/helpdesk_mgmt/i18n/helpdesk_mgmt.pot\n"
 "X-Crowdin-File-ID: 3262\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-06 06:41\n"
+"PO-Revision-Date: 2022-10-06 07:41\n"
 
 #. module: helpdesk_mgmt
 #: model_terms:ir.ui.view,arch_db:helpdesk_mgmt.portal_helpdesk_ticket_page
@@ -657,7 +657,7 @@ msgstr "Symbol"
 #. module: helpdesk_mgmt
 #: model:ir.model.fields,help:helpdesk_mgmt.field_helpdesk_ticket__activity_exception_icon
 msgid "Icon to indicate an exception activity."
-msgstr ""
+msgstr "Symbol zur Angabe einer Ausnahmeaktivität."
 
 #. module: helpdesk_mgmt
 #: model:ir.model.fields,help:helpdesk_mgmt.field_helpdesk_ticket__message_needaction
@@ -837,17 +837,17 @@ msgstr ""
 #. module: helpdesk_mgmt
 #: model:ir.model.fields,field_description:helpdesk_mgmt.field_helpdesk_ticket__activity_date_deadline
 msgid "Next Activity Deadline"
-msgstr ""
+msgstr "Frist für die nächste Aktivität"
 
 #. module: helpdesk_mgmt
 #: model:ir.model.fields,field_description:helpdesk_mgmt.field_helpdesk_ticket__activity_summary
 msgid "Next Activity Summary"
-msgstr ""
+msgstr "Zusammenfassung der nächsten Aktivität"
 
 #. module: helpdesk_mgmt
 #: model:ir.model.fields,field_description:helpdesk_mgmt.field_helpdesk_ticket__activity_type_id
 msgid "Next Activity Type"
-msgstr ""
+msgstr "Nächster Aktivitätstyp"
 
 #. module: helpdesk_mgmt
 #: code:addons/helpdesk_mgmt/models/helpdesk_ticket.py:0
@@ -1008,7 +1008,7 @@ msgstr "Berichte"
 #. module: helpdesk_mgmt
 #: model:ir.model.fields,field_description:helpdesk_mgmt.field_helpdesk_ticket__activity_user_id
 msgid "Responsible User"
-msgstr ""
+msgstr "Verantwortlicher Nutzer"
 
 #. module: helpdesk_mgmt
 #: model:ir.model.fields,field_description:helpdesk_mgmt.field_helpdesk_ticket__message_has_sms_error
@@ -1070,7 +1070,10 @@ msgid "Status based on activities\n"
 "Overdue: Due date is already passed\n"
 "Today: Activity date is today\n"
 "Planned: Future activities."
-msgstr ""
+msgstr "Status basierend auf Aktivitäten\n"
+"Überfällig: Fälligkeitsdatum ist bereits überschritten\n"
+"Heute: Aktivitätsdatum ist heute\n"
+"Geplant: Zukünftige Aktivitäten."
 
 #. module: helpdesk_mgmt
 #: model_terms:ir.ui.view,arch_db:helpdesk_mgmt.portal_create_ticket
@@ -1228,7 +1231,7 @@ msgstr ""
 #. module: helpdesk_mgmt
 #: model:ir.model.fields,help:helpdesk_mgmt.field_helpdesk_ticket__activity_exception_decoration
 msgid "Type of the exception activity on record."
-msgstr ""
+msgstr "Art der aufgezeichneten Ausnahmeaktivität."
 
 #. module: helpdesk_mgmt
 #: model_terms:ir.ui.view,arch_db:helpdesk_mgmt.helpdesk_ticket_kanban_view
