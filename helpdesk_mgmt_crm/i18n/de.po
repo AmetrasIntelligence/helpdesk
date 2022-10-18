@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.helpdesk] 13.0/helpdesk_mgmt_crm/i18n/helpdesk_mgmt_crm.pot\n"
 "X-Crowdin-File-ID: 8782\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-09-13 22:05\n"
+"PO-Revision-Date: 2022-10-18 06:55\n"
 
 #. module: helpdesk_mgmt_crm
 #: model_terms:ir.ui.view,arch_db:helpdesk_mgmt_crm.helpdesk_ticket_create_lead_view_form
@@ -102,7 +102,7 @@ msgstr ""
 #. module: helpdesk_mgmt_crm
 #: model:ir.model.fields,field_description:helpdesk_mgmt_crm.field_helpdesk_ticket_create_lead__team_id
 msgid "Team"
-msgstr ""
+msgstr "Team"
 
 #. module: helpdesk_mgmt_crm
 #: code:addons/helpdesk_mgmt_crm/wizard/helpdesk_ticket_create_lead.py:0
