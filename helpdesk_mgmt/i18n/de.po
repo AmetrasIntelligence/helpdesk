@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.helpdesk] 13.0/helpdesk_mgmt/i18n/helpdesk_mgmt.pot\n"
 "X-Crowdin-File-ID: 3262\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-18 08:23\n"
+"PO-Revision-Date: 2022-10-25 12:20\n"
 
 #. module: helpdesk_mgmt
 #: model_terms:ir.ui.view,arch_db:helpdesk_mgmt.portal_helpdesk_ticket_page
@@ -351,7 +351,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:helpdesk_mgmt.field_helpdesk_ticket__closed
 #: model:ir.model.fields,field_description:helpdesk_mgmt.field_helpdesk_ticket_stage__closed
 msgid "Closed"
-msgstr ""
+msgstr "Geschlossen"
 
 #. module: helpdesk_mgmt
 #: model:ir.model.fields,field_description:helpdesk_mgmt.field_helpdesk_ticket__closed_date
